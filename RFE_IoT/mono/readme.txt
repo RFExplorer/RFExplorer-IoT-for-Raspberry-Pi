@@ -20,6 +20,8 @@ To test this tool, run from command line:
     
 This command will scan a frequency range from 200 to 300Mhz, using default configuration for RF Explorer 3G+ IoT module, displaying peak frequency detected in that range.
 
+More details on readme.txt of the folder tool
+
 * TestMono_GUI - A simple "Hello World" window to test GUI in Raspberry Pi. It should be used under X11 environment, it won't work from command line.
 
 To test this example, run from command line:

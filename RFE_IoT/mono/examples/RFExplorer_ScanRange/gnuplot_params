@@ -1,0 +1,8 @@
+set xlabel "Frequency (MHz)"
+set ylabel "Amplitude (dBm)"
+set yrange [-100:-40]
+set key off
+set title "RF Explorer IoT 3G+"
+plot filename with lines
+pause 10
+
